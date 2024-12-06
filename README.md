@@ -1,3 +1,7 @@
+# Calculadora de IMC
+
+Projeto de calculadora IMC com Dart/Flutter
+
 # proj_imc
 
 A new Flutter project.
